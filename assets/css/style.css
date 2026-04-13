@@ -1,0 +1,39 @@
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@200..700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Fira+Code:wght@300..700&family=Oswald:wght@200..700&display=swap');
+
+body {
+    background-color: #d9d9d9;
+    font-family: Oswald, serif;
+}
+
+img[src="assets/img/perfil.jpg"], img[src="assets/img/ods_4.png"] {
+    border-radius: 10px;
+}
+
+a {
+    color: #000000;
+    text-decoration: none;
+}
+
+a:hover {
+    color: #e60000;
+}
+
+.contato ul li img {
+    position: relative;
+    top: 5px;
+}
+
+#cabecalho {
+    font-family: "Fira code";
+    font-style: italic;
+}
+
+.subtitulos {
+    background-color:#8c8c8c;
+    text-indent: 1%;
+}
+
+#rodape {
+    font-style: oblique;
+}
